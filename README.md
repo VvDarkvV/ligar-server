@@ -8,7 +8,6 @@ Rápido tutorial para ensinar como iniciar o server pelo Google Shell
 
 LISTA DE CONTAS SENDO USADAS
 ```
-
 COBBLEMON:
 e-mail: greatminerinhos@gmail.com 
 senha: M1n3rsGr3@t
@@ -24,7 +23,6 @@ senha: M1n3rsGr3@t
 
 6- Quando ele confirmar que o servidor foi executado, envie o comando `screen -ls` para ver quais programas estão sendo executados, os seguintes aplicativos devem aparecer:
 ```
-
 afk
 server
 playit
