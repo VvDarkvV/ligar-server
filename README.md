@@ -38,17 +38,17 @@ Se algum desses estiver faltando, houve algum erro, me avise nesse caso;
 3- Se aparecerem informações de forma parecida do que está demonstrado abaixo, pode ignorar o resto dos passos, caso contrario, seguir para o passo 4; 
 ```
  playit.gg program (v0.9.3)                                                                                                                                                                                                                 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  (o) Overview  (t) Tunnels [1]  (n) Network [19ms]  (l) Logs                                                                                                                                                                                
-════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
-Visit https://playit.gg/account to manage your account                                                                                                                                                                                      
-Authenticated: true                                                                                                                                                                                                                         
-Connection Alive: true                                                                                                                                                                                                                      
-Tunnels Setup: true                                                                                                                                                                                                                         
-Latest Latency: 19 ms                                                                                                                                                                                                                       
-Connected Tunnel Server ID: 18652                                                                                                                                                                                                           
-TCP Client Count: 0                                                                                                                                                                                                                         
-UDP Client Count: 0        
+════════════════════════════════════════════════════════════════════════════
+Visit https://playit.gg/account to manage your account
+Authenticated: true
+Connection Alive: true
+Tunnels Setup: true
+Latest Latency: xxx ms
+Connected Tunnel Server ID: xxxxx
+TCP Client Count: x
+UDP Client Count: x 
 ```
 4- Clique no link que aparecer no console após digitar o código `screen -r playit`
 
