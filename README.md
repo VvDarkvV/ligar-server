@@ -19,7 +19,7 @@ senha: M1n3rsGr3@t
 
 4- Espere o console carregar e envie o comando `cd mcserver`;
 
-5- Depois, envie o comando `./startserver`;
+5- Depois, envie nessa sequência os comandos `chmod +x *` e `./startserver`;
 
 6- Quando ele confirmar que o servidor foi executado, envie o comando `screen -ls` para ver quais programas estão sendo executados, os seguintes aplicativos devem aparecer:
 ```
