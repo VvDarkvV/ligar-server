@@ -15,6 +15,7 @@ senha: M1n3rsGr3@t
 VANILLA+:
 email: joigin.mines@gmail.com
 senha: J01g1nM@!n3
+modpack: https://drive.google.com/file/d/1YRGN7oOZb62f48CRTsA6xpqfaRjpYi5w/view?usp=sharing
 ```
 
 2- Entre no site [console.cloud.google.com](https://console.cloud.google.com/) e *tenha certeza que a conta logada é a do server que você quer usar*;
