@@ -17,11 +17,17 @@ senha: M1n3rsGr3@t
 
 3- Clique no botão **"Ativar Cloud Shell"**;
 
-4- Espere o console carregar e envie o comando `cd mcserver`;
+MODO NOVO
 
-5- Depois, envie nessa sequência os comandos `chmod +x *` e `./startserver`;
+1- Digite `chmod +x *` e depois `./iniciar.sh`
 
-6- Quando ele confirmar que o servidor foi executado, envie o comando `screen -ls` para ver quais programas estão sendo executados, os seguintes aplicativos devem aparecer:
+MODO ANTIGO
+
+1- Espere o console carregar e envie o comando `cd mcserver`;
+
+2- Depois, envie nessa sequência os comandos `chmod +x *` e `./startserver`;
+
+3- Quando ele confirmar que o servidor foi executado, envie o comando `screen -ls` para ver quais programas estão sendo executados, os seguintes aplicativos devem aparecer:
 ```
 afk
 server
