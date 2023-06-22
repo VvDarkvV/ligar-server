@@ -31,11 +31,9 @@ Se algum desses estiver faltando, houve algum erro, me avise nesse caso;
 
 ### PREPARANDO O IP
 
-1- Entre no site [playit.gg](https://playit.gg/account/) e entre com o email e senha sendo usados;
+1- No console do Google Shell, use o comando `screen -r playit`
 
-2- No console do Google Shell, use o comando `screen -r playit`
-
-3- Se aparecerem informações de forma parecida do que está demonstrado abaixo, pode ignorar o resto dos passos, caso contrario, seguir para o passo 4; 
+2- Se aparecerem informações de forma parecida do que está demonstrado abaixo, pode ignorar o resto dos passos, caso contrario, seguir para o passo 3; 
 ```
  playit.gg program (v0.9.3)                                                                                                                                                                                                                 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -50,6 +48,8 @@ Connected Tunnel Server ID: xxxxx
 TCP Client Count: x
 UDP Client Count: x 
 ```
+3- Entre no site [playit.gg](https://playit.gg/account/) e entre com o email e senha sendo usados;
+
 4- Clique no link que aparecer no console após digitar o código `screen -r playit`
 
 5- Quando o site carregar, faça o login se não tiver feito e aceite o *"agente"*;
