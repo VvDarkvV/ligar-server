@@ -39,7 +39,7 @@ Se algum desses estiver faltando, houve algum erro, me avise nesse caso;
 ```
  playit.gg program (v0.9.3)                                                                                                                                                                                                                 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- (o) Overview  (t) Tunnels [1]  (n) Network [19ms]  (l) Logs                                                                                                                                                                                
+ (o) Overview  (t) Tunnels [1]  (n) Network [xxx ms]  (l) Logs                                                                                                                                                                                
 ════════════════════════════════════════════════════════════════════════════
 Visit https://playit.gg/account to manage your account
 Authenticated: true
