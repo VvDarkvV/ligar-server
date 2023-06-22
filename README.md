@@ -11,6 +11,10 @@ LISTA DE CONTAS SENDO USADAS
 COBBLEMON:
 e-mail: greatminerinhos@gmail.com 
 senha: M1n3rsGr3@t
+
+VANILLA+:
+email: joigin.mines@gmail.com
+senha: J01g1nM@!n3
 ```
 
 2- Entre no site [console.cloud.google.com](https://console.cloud.google.com/) e *tenha certeza que a conta logada é a do server que você quer usar*;
