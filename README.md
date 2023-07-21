@@ -9,13 +9,19 @@ Rápido tutorial para ensinar como iniciar o server pelo Google Shell
 LISTA DE CONTAS SENDO USADAS
 ```
 COBBLEMON:
-e-mail: greatminerinhos@gmail.com 
-senha: M1n3rsGr3@t
+ e-mail: greatminerinhos@gmail.com 
+ senha: M1n3rsGr3@t
 
 VANILLA+:
-email: joigin.mines@gmail.com
-senha: J01g1nM@!n3
-modpack: https://drive.google.com/file/d/1YRGN7oOZb62f48CRTsA6xpqfaRjpYi5w/view?usp=sharing
+ e-mail: joigin.mines@gmail.com
+ senha: J01g1nM@!n3
+ modpack: https://drive.google.com/file/d/1YRGN7oOZb62f48CRTsA6xpqfaRjpYi5w/view?usp=sharing
+
+
+FANTASIA:
+ e-mail: minedcriadoscria@gmail.com
+ senha: F@nt4S1@
+ modpack: https://drive.google.com/file/d/1QAn99jVFcMetcr0_zhVzLtDs9Sc_8hvd/view?usp=sharing
 ```
 
 2- Entre no site [console.cloud.google.com](https://console.cloud.google.com/) e *tenha certeza que a conta logada é a do server que você quer usar*;
